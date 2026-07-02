@@ -1,0 +1,101 @@
+Rank,Candidate ID,Headline,Experience,Skill Score,Semantic Score,Evidence Score,Experience Score,Location Score,GitHub Score,Profile Score,Final Score,Recommendation
+1,CAND_0000031,"Recommendation Systems Engineer | Search, Ranking & Retrieval",5.8,25.0,56.31,30.31,100,100,32.6,83.4,52.19,Weak Match
+2,CAND_0000083,Graphic Designer | Generative AI explorer,6.6,31.25,53.3,32.81,100,0,39.0,56.6,47.48,Weak Match
+3,CAND_0000014,Frontend Engineer | Full-stack development,8.3,18.75,61.95,18.44,100,100,-1,61.9,46.91,Weak Match
+4,CAND_0000082,Data Analyst | 7.4+ yrs in data engineering,7.3,31.25,58.1,22.19,100,0,-1,66.2,45.04,Weak Match
+5,CAND_0000001,"Backend Engineer | SQL, Spark, Cloud",6.8,25.0,49.73,22.19,100,0,9.2,86.9,42.93,Weak Match
+6,CAND_0000021,Project Manager | AI enthusiast | Building with LLMs,14.3,25.0,54.94,30.62,90,0,6.4,58.5,42.85,Weak Match
+7,CAND_0000097,Mechanical Engineer | AI enthusiast | Building with LLMs,5.8,25.0,58.87,24.38,100,0,-1,30.3,42.31,Weak Match
+8,CAND_0000043,Cloud Engineer | Full-stack development,8.2,18.75,61.39,19.38,100,0,-1,57.0,41.71,Weak Match
+9,CAND_0000086,Mechanical Engineer | Helping teams scale,4.8,6.25,60.32,12.81,96.0,100,7.0,49.5,41.43,Weak Match
+10,CAND_0000075,Full Stack Developer | Full-stack development,5.1,0.0,62.55,10.0,100,100,27.8,36.7,40.86,Weak Match
+11,CAND_0000033,Graphic Designer | Helping teams scale,8.5,0.0,52.12,10.0,100,100,38.3,74.0,40.65,Weak Match
+12,CAND_0000029,Business Analyst | Driving business outcomes,7.1,0.0,57.19,10.0,100,100,42.5,40.5,40.45,Weak Match
+13,CAND_0000060,Cloud Engineer | Cloud & DevOps,7.9,12.5,59.14,15.62,100,0,-1,87.8,40.37,Weak Match
+14,CAND_0000015,Software Engineer | Cloud & DevOps,5.3,12.5,60.25,15.62,100,0,-1,79.4,40.23,Weak Match
+15,CAND_0000091,Frontend Engineer | Cloud & DevOps,3.6,12.5,63.44,19.38,72.0,0,55.2,69.1,39.88,Poor Match
+16,CAND_0000038,Java Developer | Cloud & DevOps,6.6,12.5,58.87,15.62,100,0,37.8,35.8,39.65,Poor Match
+17,CAND_0000053,Graphic Designer | 3.9+ yrs experience,3.8,6.25,60.21,13.75,76.0,100,30.2,42.3,39.39,Poor Match
+18,CAND_0000010,Data Engineer | Data pipelines & analytics,4.6,12.5,54.17,15.62,92.0,0,33.7,81.6,39.36,Poor Match
+19,CAND_0000078,Business Analyst | Helping teams scale,10.2,6.25,53.85,12.81,90,100,2.5,59.4,39.18,Poor Match
+20,CAND_0000062,DevOps Engineer | Cloud & DevOps,4.2,6.25,62.23,12.81,84.0,0,45.9,85.8,38.87,Poor Match
+21,CAND_0000085,Mechanical Engineer | Driving business outcomes,12.8,0.0,55.54,10.0,90,100,-1,73.8,38.02,Poor Match
+22,CAND_0000063,Java Developer | Cloud & DevOps,5.3,6.25,52.66,12.81,100,0,61.4,47.8,37.75,Poor Match
+23,CAND_0000048,Mobile Developer | Full-stack development,9.5,0.0,53.69,10.0,90,100,-1,62.2,36.98,Poor Match
+24,CAND_0000026,Graphic Designer | 6.8+ yrs experience,6.7,6.25,54.68,12.81,100,0,-1,80.3,36.76,Poor Match
+25,CAND_0000032,.NET Developer | Full-stack development,7.9,12.5,54.87,15.62,100,0,-1,35.4,36.69,Poor Match
+26,CAND_0000020,Mechanical Engineer | 6.3+ yrs experience,6.2,6.25,55.73,12.81,100,0,-1,73.0,36.66,Poor Match
+27,CAND_0000024,HR Manager | 7.5+ yrs experience,7.4,0.0,55.86,10.0,100,0,46.3,63.7,36.47,Poor Match
+28,CAND_0000070,Business Analyst | Driving business outcomes,4.2,0.0,52.56,10.0,84.0,100,-1,74.6,36.42,Poor Match
+29,CAND_0000016,Accountant | Helping teams scale,5.2,0.0,54.78,10.0,100,0,42.9,69.4,36.31,Poor Match
+30,CAND_0000074,Operations Manager | Generative AI explorer,1.8,31.25,54.74,30.0,36.0,0,-1,66.2,36.16,Poor Match
+31,CAND_0000093,Civil Engineer | 8.2+ yrs experience,8.0,6.25,52.13,12.81,100,0,20.1,56.5,35.99,Poor Match
+32,CAND_0000068,Java Developer | Full-stack development,1.5,18.75,55.93,18.44,30.0,100,20.2,61.4,35.94,Poor Match
+33,CAND_0000035,Full Stack Developer | Backend systems & APIs,4.2,0.0,51.88,12.81,84.0,100,-1,56.2,35.89,Poor Match
+34,CAND_0000046,Mechanical Engineer | 7.8+ yrs experience,7.8,0.0,56.37,10.0,100,0,20.9,74.8,35.88,Poor Match
+35,CAND_0000077,Frontend Engineer | Backend systems & APIs,8.7,6.25,55.91,12.81,100,0,-1,55.2,35.81,Poor Match
+36,CAND_0000044,Frontend Engineer | Backend systems & APIs,5.7,6.25,58.42,12.81,100,0,6.5,30.6,35.58,Poor Match
+37,CAND_0000007,Civil Engineer | 5.5+ yrs experience,5.4,0.0,59.51,10.0,100,0,-1,74.6,35.56,Poor Match
+38,CAND_0000054,QA Engineer | Cloud & DevOps,4.8,0.0,63.15,10.0,96.0,0,-1,68.0,35.54,Poor Match
+39,CAND_0000092,Business Analyst | Driving business outcomes,4.8,6.25,55.34,12.81,96.0,0,-1,64.3,35.52,Poor Match
+40,CAND_0000088,Java Developer | Cloud & DevOps,7.5,6.25,56.95,15.62,100,0,-1,32.1,35.48,Poor Match
+41,CAND_0000008,Operations Manager | 3.6+ yrs experience,3.6,0.0,58.17,10.0,72.0,100,-1,63.0,35.44,Poor Match
+42,CAND_0000006,Business Analyst | 6.0+ yrs experience,5.9,6.25,59.2,12.81,100,0,-1,29.7,35.36,Poor Match
+43,CAND_0000095,HR Manager | Driving business outcomes,6.7,0.0,57.89,10.0,100,0,-1,76.7,35.26,Poor Match
+44,CAND_0000025,Frontend Engineer | Cloud & DevOps,7.2,0.0,58.05,10.0,100,0,-1,70.7,35.0,Poor Match
+45,CAND_0000076,Project Manager | Helping teams scale,11.8,6.25,52.61,12.81,90,0,-1,82.3,34.84,Poor Match
+46,CAND_0000055,Full Stack Developer | Backend systems & APIs,7.2,0.0,50.8,10.0,100,0,17.3,85.2,34.82,Poor Match
+47,CAND_0000023,Software Engineer | Cloud & DevOps,3.7,6.25,58.05,12.81,74.0,0,48.5,50.7,34.7,Poor Match
+48,CAND_0000071,DevOps Engineer | Full-stack development,1.8,18.75,59.26,18.44,36.0,0,53.3,67.8,34.65,Poor Match
+49,CAND_0000027,DevOps Engineer | Cloud & DevOps,3.8,6.25,58.51,16.56,76.0,0,38.6,31.0,34.38,Poor Match
+50,CAND_0000096,QA Engineer | Full-stack development,3.1,12.5,57.82,15.62,62.0,0,-1,84.2,34.16,Poor Match
+51,CAND_0000061,DevOps Engineer | Backend systems & APIs,7.7,0.0,56.62,10.0,100,0,-1,58.0,34.01,Poor Match
+52,CAND_0000087,Full Stack Developer | Cloud & DevOps,2.5,0.0,58.08,10.0,50.0,100,34.0,64.4,33.94,Poor Match
+53,CAND_0000100,Graphic Designer | Helping teams scale,13.2,6.25,51.63,12.81,90,0,-1,68.3,33.9,Poor Match
+54,CAND_0000011,QA Engineer | Cloud & DevOps,1.9,6.25,55.26,15.62,38.0,100,32.3,59.2,33.78,Poor Match
+55,CAND_0000072,Frontend Engineer | Backend systems & APIs,6.8,0.0,55.05,10.0,100,0,19.8,37.6,33.63,Poor Match
+56,CAND_0000080,Graphic Designer | Helping teams scale,8.2,0.0,52.49,10.0,100,0,-1,69.3,33.54,Poor Match
+57,CAND_0000098,Business Analyst | Helping teams scale,1.7,6.25,59.83,12.81,34.0,100,-1,83.1,33.29,Poor Match
+58,CAND_0000018,Frontend Engineer | Full-stack development,6.5,0.0,58.07,10.0,100,0,-1,34.8,33.21,Poor Match
+59,CAND_0000050,Business Analyst | Helping teams scale,13.3,0.0,53.28,10.0,90,0,44.7,42.5,33.18,Poor Match
+60,CAND_0000005,Accountant | Helping teams scale,10.8,0.0,53.86,10.0,90,0,-1,84.6,33.14,Poor Match
+61,CAND_0000042,HR Manager | 5.0+ yrs experience,4.9,0.0,54.19,10.0,98.0,0,-1,58.6,33.13,Poor Match
+62,CAND_0000041,Operations Manager | Helping teams scale,13.5,0.0,54.99,10.0,90,0,-1,75.9,32.99,Poor Match
+63,CAND_0000064,Accountant | Helping teams scale,4.4,0.0,54.92,10.0,88.0,0,-1,70.6,32.41,Poor Match
+64,CAND_0000079,Customer Support | Driving business outcomes,13.1,0.0,52.27,10.0,90,0,-1,76.7,32.35,Poor Match
+65,CAND_0000049,Mechanical Engineer | Helping teams scale,11.8,0.0,54.54,10.0,90,0,-1,64.0,32.28,Poor Match
+66,CAND_0000019,Project Manager | 6.5+ yrs experience,6.4,0.0,53.17,10.0,100,0,-1,38.6,32.17,Poor Match
+67,CAND_0000051,Cloud Engineer | Cloud & DevOps,6.2,0.0,53.39,10.0,100,0,-1,34.8,32.04,Poor Match
+68,CAND_0000067,Frontend Engineer | Cloud & DevOps,3.8,6.25,55.11,12.81,76.0,0,2.2,47.1,31.77,Poor Match
+69,CAND_0000034,Business Analyst | Driving business outcomes,14.2,6.25,48.12,12.81,90,0,-1,41.2,31.66,Poor Match
+70,CAND_0000037,Business Analyst | 14.3+ yrs experience,14.2,6.25,50.36,12.81,90,0,-1,25.6,31.44,Poor Match
+71,CAND_0000058,HR Manager | Helping teams scale,10.0,0.0,58.26,10.0,90,0,-1,28.2,31.42,Poor Match
+72,CAND_0000002,Operations Manager | 12.5+ yrs experience,12.4,0.0,47.93,10.0,90,0,-1,78.7,31.37,Poor Match
+73,CAND_0000030,Marketing Manager | Driving business outcomes,9.8,0.0,47.16,10.0,90,0,21.7,59.7,31.36,Poor Match
+74,CAND_0000069,Business Analyst | 13.0+ yrs experience,12.8,0.0,51.39,10.0,90,0,-1,55.0,31.05,Poor Match
+75,CAND_0000065,Project Manager | Driving business outcomes,9.6,6.25,47.46,12.81,90,0,-1,31.8,31.03,Poor Match
+76,CAND_0000084,Marketing Manager | 10.6+ yrs experience,10.3,0.0,57.22,10.0,90,0,-1,25.1,31.01,Poor Match
+77,CAND_0000045,Project Manager | 12.2+ yrs experience,11.9,0.0,56.91,10.0,90,0,-1,25.4,30.95,Poor Match
+78,CAND_0000073,Project Manager | 12.1+ yrs experience,11.9,0.0,48.41,10.0,90,0,-1,65.8,30.84,Poor Match
+79,CAND_0000009,Mechanical Engineer | Driving business outcomes,10.9,0.0,51.85,10.0,90,0,-1,39.6,30.39,Poor Match
+80,CAND_0000017,Accountant | 12.3+ yrs experience,12.2,0.0,51.4,10.0,90,0,-1,38.7,30.23,Poor Match
+81,CAND_0000036,Project Manager | 11.3+ yrs experience,11.2,0.0,40.92,10.0,90,0,-1,81.8,29.77,Poor Match
+82,CAND_0000081,Accountant | 10.1+ yrs experience,10.0,0.0,51.81,10.0,90,0,-1,27.4,29.77,Poor Match
+83,CAND_0000090,QA Engineer | Full-stack development,1.7,0.0,55.23,10.0,34.0,100,-1,77.7,29.74,Poor Match
+84,CAND_0000039,Marketing Manager | Helping teams scale,3.8,0.0,59.64,10.0,76.0,0,-1,28.3,29.68,Poor Match
+85,CAND_0000047,Project Manager | Helping teams scale,2.3,6.25,56.82,12.81,46.0,0,-1,79.7,29.16,Poor Match
+86,CAND_0000059,Frontend Engineer | Full-stack development,1.5,0.0,53.82,10.0,30.0,100,-1,66.3,28.22,Poor Match
+87,CAND_0000004,Marketing Manager | Driving business outcomes,3.7,0.0,53.36,10.0,74.0,0,-1,28.5,27.81,Poor Match
+88,CAND_0000094,Graphic Designer | Driving business outcomes,2.6,0.0,54.92,10.0,52.0,0,10.1,72.5,27.66,Poor Match
+89,CAND_0000099,Full Stack Developer | Backend systems & APIs,2.6,0.0,55.02,10.0,52.0,0,-1,71.3,27.07,Poor Match
+90,CAND_0000057,Customer Support | 3.3+ yrs experience,3.2,0.0,53.84,10.0,64.0,0,-1,34.4,26.73,Poor Match
+91,CAND_0000056,Frontend Engineer | Cloud & DevOps,1.2,12.5,56.04,15.62,24.0,0,-1,37.7,25.69,Poor Match
+92,CAND_0000066,Content Writer | 2.4+ yrs experience,2.3,6.25,51.04,12.81,46.0,0,-1,34.6,25.46,Poor Match
+93,CAND_0000022,Mechanical Engineer | Driving business outcomes,1.1,6.25,51.51,12.81,22.0,0,-1,63.1,23.41,Poor Match
+94,CAND_0000040,Customer Support | Helping teams scale,1.6,0.0,56.42,10.0,32.0,0,-1,39.5,22.83,Poor Match
+95,CAND_0000013,Civil Engineer | Driving business outcomes,1.1,6.25,44.82,12.81,22.0,0,35.6,44.2,22.62,Poor Match
+96,CAND_0000052,Mechanical Engineer | Helping teams scale,1.3,0.0,58.42,10.0,26.0,0,-1,31.6,22.03,Poor Match
+97,CAND_0000012,Operations Manager | Driving business outcomes,1.1,0.0,54.89,10.0,22.0,0,-1,53.4,21.64,Poor Match
+98,CAND_0000003,Customer Support | 1.1+ yrs experience,1.1,0.0,58.73,10.0,22.0,0,-1,31.9,21.53,Poor Match
+99,CAND_0000028,Operations Manager | Driving business outcomes,1.1,0.0,50.65,10.0,22.0,0,-1,51.2,20.47,Poor Match
+100,CAND_0000089,Mechanical Engineer | Driving business outcomes,1.1,0.0,50.73,10.0,22.0,0,-1,47.9,20.33,Poor Match
