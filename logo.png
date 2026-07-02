@@ -1,0 +1,31 @@
+import { useEffect, useState } from "react";
+import { fetchCandidates } from "../services/api";
+
+function useCandidates() {
+  const [candidates, setCandidates] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    async function loadCandidates() {
+      try {
+        const data = await fetchCandidates();
+
+        console.log("API Response:", data);
+
+        setCandidates(data);
+      } catch (err) {
+        console.error(err);
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    loadCandidates();
+  }, []);
+
+  return { candidates, loading, error };
+}
+
+export default useCandidates;
