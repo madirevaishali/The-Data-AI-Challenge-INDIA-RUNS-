@@ -56,4 +56,4 @@ python main.py
 
 ## 👥 Team
 
-Developed for the **India.Runs – Data & AI Challenge**.
+Developed for the **India.Runs – Data & AI Challenge**. 
